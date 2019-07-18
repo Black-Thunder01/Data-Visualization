@@ -5,7 +5,7 @@
              //\\
            //    \\
          //        \\
-       //===      ===\\     We want Philip J. Fry to feel like when he's peeping at your Screen!!! ;-)
+       //===      ===\\    This is what we want Andrew fo feel like Philip J. Fry when he's peeping at your screen ;-)
             |    |
             |    |
             |____|
@@ -25,6 +25,9 @@ data visualization tools provide an accessible way to see and understand trends,
     - The human eye can identify red from blue, square from circle in a _**jiffy**_.
     - When we see a chart, we quickly see trends and outliers. 
 ![image10-1.png](https://www.dropbox.com/s/4nq3oph0hfbe0sn/image10-1.png?dl=0&raw=1)
+
+** Question: Which  
+
 - Big Data
     : Google Definition of big :
     > **noun** ```COMPUTING```
