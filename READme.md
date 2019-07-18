@@ -5,7 +5,7 @@
              //\\
            //    \\
          //        \\
-       //===      ===\\    This is what we want Andrew fo feel like Philip J. Fry when he's peeping at your screen ;-)
+       //===      ===\\    We want Andrew fo feel like Philip J. Fry, when he's peeping at your screen ;-)
             |    |
             |    |
             |____|
