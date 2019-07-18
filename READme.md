@@ -24,6 +24,7 @@ data visualization tools provide an accessible way to see and understand trends,
     - We all know we would rather look at a lot of dots, than a lot of cells ;-)
     - The human eye can identify red from blue, square from circle in a _**jiffy**_.
     - When we see a chart, we quickly see trends and outliers. 
+![image10-1.png](https://www.dropbox.com/s/4nq3oph0hfbe0sn/image10-1.png?dl=0&raw=1)
 - Big Data
     : Google Definition of big :
     > **noun** ```COMPUTING```
